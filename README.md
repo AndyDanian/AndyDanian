@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m a PhD in Physics at UNNE in Argentina. I'm instresting to learn about machine learning, power bi and improve my programming skills, because in the the future I'll like in the IT industry because I enjoy to program. I work with different programming languages like python, fortran, cuda-c and so on.  
+- 🌱 I hold a PhD in Physics from UNNE (Argentina), and I am also a Chemist and a Magister in Chemical Sciences from UdeA (Colombia). I'm interested in improving my programming skills because I’d like to work in the IT industry — I genuinely enjoy programming.
+I have experience with Python, Fortran, and CUDA-C, among other programming languages.
